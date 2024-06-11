@@ -3,8 +3,8 @@
 
 <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VuZmRjZWdxY205NXFhcXFjN285eHdpNmN5OGZxYzNvYmk5MnM5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnMSi3II4uUSwG7xAJ/giphy.webp'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on some django projects and telegram bots
+- 🌱 I’m currently learning SQL and Celery
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with finding a job
 - 💬 Ask me about IT
