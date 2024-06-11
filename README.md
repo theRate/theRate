@@ -1,7 +1,7 @@
 # Hi there, I'm Alexander 👋
 ## Python developer 🐍 from Russia 🇷🇺
 
-![](https://giphy.com/embed/jnMSi3II4uUSwG7xAJ)
+<img src=https://giphy.com/embed/jnMSi3II4uUSwG7xAJ></img>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
