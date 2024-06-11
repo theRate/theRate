@@ -1,7 +1,7 @@
 # Hi there, I'm Alexander 👋
 ## Python developer 🐍 from Russia 🇷🇺
 
-<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VuZmRjZWdxY205NXFhcXFjN285eHdpNmN5OGZxYzNvYmk5MnM5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnMSi3II4uUSwG7xAJ/giphy.webp' border-radius=10px>
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VuZmRjZWdxY205NXFhcXFjN285eHdpNmN5OGZxYzNvYmk5MnM5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jnMSi3II4uUSwG7xAJ/giphy.webp' border-radius='100px'>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
