@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some django projects and telegram bots
 - 🌱 I’m currently learning SQL and Celery
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on developing web apps
 - 🤔 I’m looking for help with finding a job
 - 💬 Ask me about IT
 - 📫 How to reach me: ...
